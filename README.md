@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ethel 👋</h1>
 
-<!--
-**Fivup/Fivup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Future+Computer+Science+Engineer;Studying+at+EPITA" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🗣️ **Pronouns:** She/Her
+- 🎓 Currently studying computer science at **EPITA** (ready to survive the projects 🫡).
+- 🔍 Curious dev, always looking forward to learning and mastering new programming languages.
+- 💻 Already participated in projects using **Python** and **Blazor (C#)**.
+
+---
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/OCaml-%23ec6812.svg?style=for-the-badge&logo=ocaml&logoColor=white" alt="Caml" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
