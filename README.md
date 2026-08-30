@@ -11,7 +11,7 @@
 - 🎓 Currently studying computer science at **EPITA** (ready to survive the projects 🫡).
 - 🔍 Curious dev, always looking forward to learning and mastering new programming languages.
 - 💻 Already participated in projects using **Python** and **Blazor (C#)**.
-- 📭 Feel free to contact me on Discord — I'm fivup22 :)
+- 📫 Feel free to contact me on Discord — I'm ``fivup22`` :)
 
 ---
 
